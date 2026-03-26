@@ -60,7 +60,7 @@ export default function LoginPage() {
   };
 
   return (
-    <AuthFormWrapper>
+    <AuthFormWrapper title="Login">
       <div className="bg-white/90 backdrop-blur-md p-10 rounded-2xl shadow-2xl w-[400px]">
         
         <h1 className="text-3xl font-bold text-center mb-6">Login</h1>
